@@ -40,9 +40,9 @@ const objetoMpa = {
     propertyTaxDebitCents    :     undefined,
     rentMonthlyValueCents    :     undefined,
     rented    :     undefined,
-    type    :     undefined,
+    type    :     "HOUSE",
     useMainProponentAddress    :     undefined,
-    valueCents    :     "R$ 255.000,00",
+    valueCents    :     undefined
   
     }
   
