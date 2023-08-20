@@ -1,3 +1,4 @@
+//factory Function retorna um objeto
 function criaPessoa(nome, sobrenome, a) {
     return {
         nome,
