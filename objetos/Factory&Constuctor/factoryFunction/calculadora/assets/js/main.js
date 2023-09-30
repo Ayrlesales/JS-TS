@@ -71,3 +71,4 @@ function criaCalculadora() {
 
 const calculadora = criaCalculadora();
 calculadora.inicia();
+//calculadora é o this
