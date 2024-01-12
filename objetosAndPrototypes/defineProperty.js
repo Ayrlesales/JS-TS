@@ -38,3 +38,6 @@ console.log(p1);
 p1.preco = 10;
 p1.estoque = 29;
 console.log(p1.preco);
+
+console.log(Object.getOwnPropertyDescriptor(p1, 'preco'))
+console.log(Object.getOwnPropertyDescriptors(p1, 'nome', 'estoque'))
